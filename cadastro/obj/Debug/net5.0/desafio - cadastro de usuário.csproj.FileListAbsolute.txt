@@ -1,0 +1,16 @@
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.exe
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.dll
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\ref\desafio - cadastro de usuário.dll
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\bin\Debug\net5.0\desafio - cadastro de usuário.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.dll
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\ref\desafio - cadastro de usuário.dll
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\desafio - cadastro de usuário\obj\Debug\net5.0\desafio - cadastro de usuário.genruntimeconfig.cache

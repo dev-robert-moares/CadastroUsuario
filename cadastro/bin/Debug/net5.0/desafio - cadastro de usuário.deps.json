@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "desafio - cadastro de usuário/1.0.0": {
+        "runtime": {
+          "desafio - cadastro de usuário.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio - cadastro de usuário/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
